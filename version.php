@@ -22,6 +22,6 @@
  */
 defined('MOODLE_INTERNAL') || die;
 
-$plugin->version   = 2019100300;         // The current plugin version (Date: YYYYMMDDXX)
+$plugin->version   = 2019101000;         // The current plugin version (Date: YYYYMMDDXX)
 $plugin->requires  = 2015051100;         // Requires this Moodle version (see https://docs.moodle.org/dev/Releases)
 $plugin->component = 'report_engage_plugin';  // Full name of the plugin
